@@ -1,7 +1,7 @@
 <template>
 <header>
       <div class="flag">
-        <img src="https://lipis.github.io/flag-icon-css/flags/4x3/tr.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png?20190917170937">
       </div>
       <h2 class="lang-text">Next Level Turkish</h2>
       <div class="header-bars">
